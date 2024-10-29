@@ -1,6 +1,6 @@
 ## Henry 👋
 
-- <template>
+<template>
     <div>
       <!-- 最外层的盒子 -->
 
@@ -83,7 +83,7 @@
 
     </div>
 
-  </template>
+</template>
 
   <script>
   export default {};
